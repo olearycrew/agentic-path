@@ -158,6 +158,7 @@ The onboarding wizard walks through:
 - [Documentation](https://docs.openclaw.ai) — Full docs
 - [ClawHub](https://clawhub.com) — Find and share skills
 - [Discord Community](https://discord.com/invite/clawd) — Support and discussion
+- [Kilo Gateway Supercharges MoltBot (fka ClawdBot)](https://blog.kilo.ai/p/kilo-gateway-supercharges-moltbot-fka-clawdbot) — Origin story and Kilo integration
 
 ---
 
